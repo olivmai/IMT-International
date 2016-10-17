@@ -1,0 +1,1 @@
+<a href="admin/index.php" class="btn btn-default btn-admin" id="btn-admin" data-toggle="tooltip" data-placement="left" title="Accès à l'espace Admin"><i class="fa fa-cogs"></i></a>
